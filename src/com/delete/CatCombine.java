@@ -12,7 +12,7 @@ public class CatCombine {
 		a.weightOfCat();
 		a.eyeColourOfCat();
 		
-		
+		System.out.println("The above details of the cat");
 	} 
 	
 }
